@@ -1,2 +1,2 @@
 # SingalProcessing
-Generate examples to illustrat image texture in terms of entropy
+Generate examples to illustrate image texture in terms of entropy
